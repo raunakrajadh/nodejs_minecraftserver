@@ -1,0 +1,1 @@
+java -Xmx500M -Xms500M -jar server.jar nogui --port 30000

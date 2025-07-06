@@ -1,0 +1,7 @@
+services:
+  - type: web
+    name: mcserver
+    env: docker
+    plan: free
+    autoDeploy: false
+    dockerfilePath: ./Dockerfile
